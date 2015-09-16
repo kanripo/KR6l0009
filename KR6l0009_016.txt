@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.738515
+#+DATE: 2015-08-30 20:47:56.593157
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6l0009_T_016-1000b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《阿毘達磨發智論》卷第十六¶
+《阿毘達磨發智論》卷第十六¶
 ¶
-尊者迦多行尼子造¶
+尊者迦多衍尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-6魚納息
-:PROPERTIES:
-:head: 根蘊第六中魚納息第六
-:END:
-¶
+根蘊第六中魚納息第六¶
 
 #+BEGIN_VERSE
 「　總三世成就
@@ -123,11 +118,7 @@
 根非無因耶。答有。謂無緣根因色心不相應¶
 行。¶
 
-7因緣納息
-:PROPERTIES:
-:head: 根蘊第六中因緣納息第七
-:END:
-¶
+根蘊第六中因緣納息第七¶
 
 #+BEGIN_VERSE
 「　五三四四八
@@ -385,7 +376,7 @@
 因見苦斷緣苦類智斷者。謂根見苦斷。緣苦¶
 類智斷。及根見集斷。因見苦斷。緣苦類智斷。¶
 因見苦斷緣集法智斷者。謂根見苦斷。緣集¶
-法智斷。及根見集斷。因見苦斷。緣集法智¶
+法智斷。及根見集斷。因見苦斷。緣見集¶
 斷。因見苦斷緣集類智斷者。謂根見苦斷。緣¶
 集類智斷。及根見集斷。因見苦斷。緣集類智¶
 斷。因見苦斷。緣滅法智斷者。謂根見苦斷。緣¶
