@@ -1,27 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.774360
+#+DATE: 2015-08-30 20:47:59.527917
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0009_T_017-1008a> 
 #+PROPERTY: JUAN 17
 ¶
-
- 《阿毘達磨發智論》卷第十七¶
+《阿毘達磨發智論》卷第十七¶
 ¶
 尊者迦多衍尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-7定蘊
-1得納息
-:PROPERTIES:
-:head: 定蘊第七中得納息第一
-:END:
-¶
+定蘊第七中得納息第一¶
 
 #+BEGIN_VERSE
 「　五得四起支
@@ -268,8 +262,7 @@
 第二靜慮。彼命終生何處。答或梵世。或極光¶
 淨。或遍淨。或廣果。或空無邊處。或識無邊
 <pb:KR6l0009_T_017-1010c>¶
-處。或無所有處。或非想非非想處。或無處¶
-所。乃至若得無所有處非想非非想處。彼命¶
+處。或無所有處。或非想非非想處。或無處所。乃至若得無所有處非想非非想處。彼命¶
 終生何處。答或無所有處。或非想非非想處。¶
 或無處所。¶
 
@@ -321,11 +314,7 @@
 淨。或遍淨。或廣果。或無處所。世俗智異熟何¶
 處受。答或欲界。或色界。或無色界。或無處所。¶
 
-2緣納息
-:PROPERTIES:
-:head: 定蘊第七中緣納息第二
-:END:
-¶
+定蘊第七中緣納息第二¶
 
 #+BEGIN_VERSE
 「　八味淨無漏

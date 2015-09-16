@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.490260
+#+DATE: 2015-08-30 20:47:59.263023
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0009_T_008-0956b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《阿毘達磨發智論》卷第八¶
+《阿毘達磨發智論》卷第八¶
 ¶
 尊者迦多衍尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-3他心智納息
-:PROPERTIES:
-:head: 智蘊第三中他心智納息第三
-:END:
-¶
+智蘊第三中他心智納息第三¶
 
 #+BEGIN_VERSE
 「　二智二解脫
@@ -118,11 +113,7 @@
 非現在。謂未曾得道。初現在前。所修未來。彼¶
 種類道。¶
 
-4修智納息
-:PROPERTIES:
-:head: 智蘊第三中修智納息第四之一
-:END:
-¶
+智蘊第三中修智納息第四之一¶
 
 #+BEGIN_VERSE
 「　八智攝成修

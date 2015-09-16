@@ -1,28 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.346070
+#+DATE: 2015-08-30 20:47:59.127739
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0009_T_003-0929b> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘達磨發智論》卷第三¶
+《阿毘達磨發智論》卷第三¶
 ¶
 尊者迦多衍尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-2結蘊
-1不善納息
-:PROPERTIES:
-:head: 結蘊第二中不善納息第一
-:END:
-¶
+結蘊第二中不善納息第一¶
 
 #+BEGIN_VERSE
 「　三結等性熟
@@ -440,11 +434,7 @@
 一切遍行。一切遍行與一切遍行。餘一切非¶
 遍行。與一切遍行亦爾。¶
 
-2一行納息
-:PROPERTIES:
-:head: 結蘊第二中一行納息第二之一
-:END:
-¶
+結蘊第二中一行納息第二之一¶
 
 #+BEGIN_VERSE
 「　結一行歷六

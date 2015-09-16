@@ -1,26 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.402946
+#+DATE: 2015-08-30 20:47:59.184684
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0009_T_005-0940b> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《阿毘達磨發智論》卷第五¶
+《阿毘達磨發智論》卷第五¶
 ¶
 尊者迦多衍尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-3有情納息
-:PROPERTIES:
-:head: 結蘊第二中有情納息第三
-:END:
-¶
+結蘊第二中有情納息第三¶
 
 #+BEGIN_VERSE
 「　頓漸繫離繫
@@ -311,11 +306,7 @@
 生三十一隨眠隨增。六結繫。聖者三隨眠隨¶
 增。三結繫。¶
 
-4十門納息
-:PROPERTIES:
-:head: 結蘊第二中十門納息第四之一
-:END:
-¶
+結蘊第二中十門納息第四之一¶
 
 #+BEGIN_VERSE
 「　四十二隨增

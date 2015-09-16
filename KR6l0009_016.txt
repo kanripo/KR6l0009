@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.738515
+#+DATE: 2015-08-30 20:47:59.494374
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0009_T_016-1000b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《阿毘達磨發智論》卷第十六¶
+《阿毘達磨發智論》卷第十六¶
 ¶
 尊者迦多行尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-6魚納息
-:PROPERTIES:
-:head: 根蘊第六中魚納息第六
-:END:
-¶
+根蘊第六中魚納息第六¶
 
 #+BEGIN_VERSE
 「　總三世成就
@@ -123,11 +118,7 @@
 根非無因耶。答有。謂無緣根因色心不相應¶
 行。¶
 
-7因緣納息
-:PROPERTIES:
-:head: 根蘊第六中因緣納息第七
-:END:
-¶
+根蘊第六中因緣納息第七¶
 
 #+BEGIN_VERSE
 「　五三四四八
