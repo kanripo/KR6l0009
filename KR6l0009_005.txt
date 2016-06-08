@@ -1,34 +1,29 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:52.402946
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:21
 #+TITLE: 阿毘達磨發智論
 #+PROPERTY: CBETA_ID T26n1544
 #+PROPERTY: ID KR6l0009
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1544
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0009_T_005-0940b> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《阿毘達磨發智論》卷第五¶
+《阿毘達磨發智論》卷第五¶
 ¶
 尊者迦多衍尼子造¶
 三藏法師玄奘奉　詔譯¶
 
-3有情納息
-:PROPERTIES:
-:head: 結蘊第二中有情納息第三
-:END:
-¶
+** 結蘊第二中有情納息第三¶
 
 #+BEGIN_VERSE
 「　頓漸繫離繫
 　果攝七成三¶
 　死生不六種
-　此章願具說
+　此章願具說」
 #+END_VERSE
-」¶
+¶
 
 三界各有二部結。謂見修所斷。於欲界見修¶
 所斷二部結。頗有頓得繫耶。答有。謂已離欲¶
@@ -311,19 +306,15 @@
 生三十一隨眠隨增。六結繫。聖者三隨眠隨¶
 增。三結繫。¶
 
-4十門納息
-:PROPERTIES:
-:head: 結蘊第二中十門納息第四之一
-:END:
-¶
+** 結蘊第二中十門納息第四之一¶
 
 #+BEGIN_VERSE
 「　四十二隨增
 　二緣無間有¶
 　根成不知證
-　此章願具說
+　此章願具說」
 #+END_VERSE
-」¶
+¶
 
 二十二根。十八界。十二處。五蘊。五取蘊。六¶
 界。有色無色法。有見無見法。有對無對法。有¶
